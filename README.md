@@ -368,7 +368,7 @@ Key findings:
 
 1. Open the Jupyter Notebook in **Google Colab**.
 2. Install required libraries.
-3. Upload or connect the MovieLens dataset.
+3. MovieLens dataset uploaded in my GDrive and public Link provided in the code.
 4. Run all cells sequentially.
 
 ---
