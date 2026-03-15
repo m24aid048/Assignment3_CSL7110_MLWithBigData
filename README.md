@@ -1,9 +1,12 @@
 # Recommender Systems: Content-Based and Collaborative Filtering
-| **Name: -** | Shashi Saurav |
-| **Roll No: -** | M24AID048 |
-| **Course: -** | CSL7110 – Machine Learning with Big Data |
-| **Institution: -** | IIT Jodhpur |
-| **GitHub Link: -** | https://github.com/m24aid048/Assignment3_CSL7110_MLWithBigData.git|
+By:
+**Name: -** Shashi Saurav
+**Roll No: -** M24AID048
+**Course: -** CSL7110 – Machine Learning with Big Data
+**Institution: -** IIT Jodhpur
+**GitHub Link: -** https://github.com/m24aid048/Assignment3_CSL7110_MLWithBigData.git
+
+
 ## Overview
 
 This project implements multiple recommender system techniques using the **MovieLens dataset**. The objective is to build, evaluate, and compare different recommendation approaches including **Content-Based Filtering, Collaborative Filtering, Matrix Factorization, Hybrid Models, Neural Network Recommenders, Reinforcement Learning approaches, and Explainability techniques**.
